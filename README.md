@@ -6,25 +6,27 @@ LIRI (Language Interpreatation and Recognition Interface) is a command line node
 
 LIRI will give the user the following info about songs when they enter "spotify-this-song" in the command line:
 
--Artist(s)
+* Artist(s)
 
--Song
+* Song
 
--Album
+* Album
 
--Preview link
+* Preview link
 
 (insert gif or video)
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 ## Bands In Town Search
 
 LIRI will give the user the following info about bands' concerts when they enter "concert-this" in the command line:
 
--Venue
+* Venue
 
--Venue Location
+* Venue Location
 
--Date
+* Date
 
 (insert gif or video)
 
@@ -32,19 +34,19 @@ LIRI will give the user the following info about bands' concerts when they enter
 
 LIRI will give the user the following info about movies when they enter "movie-this" in the command line:
 
--Title
+* Title
 
--Year
+* Year
 
--IMDB & Rotten Tomatoes Rating
+* IMDB & Rotten Tomatoes Rating
 
--Country
+* Country
 
--Language
+* Language
 
--Plot
+* Plot
 
--Actors
+* Actors
 
 (insert gif or video)
 
