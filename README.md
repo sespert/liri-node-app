@@ -14,7 +14,7 @@ LIRI will give the user the following info about songs when they enter "spotify-
 
 * Preview link
 
-(insert gif or video)
+![Spotify search](https://github.com/sespert/liri-node-app/blob/master/images/spotify.png)
 http://github.com - automatic!
 [GitHub](http://github.com)
 
@@ -28,7 +28,7 @@ LIRI will give the user the following info about bands' concerts when they enter
 
 * Date
 
-(insert gif or video)
+![Bands in Town search](https://github.com/sespert/liri-node-app/blob/master/images/bandsInTown.png)
 
 ## OMDB Search
 
@@ -48,7 +48,7 @@ LIRI will give the user the following info about movies when they enter "movie-t
 
 * Actors
 
-(insert gif or video)
+![OMDB search](https://github.com/sespert/liri-node-app/blob/master/images/OMDB.png)
 
 ## Random Search
 
