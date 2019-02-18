@@ -49,6 +49,7 @@ LIRI will give the user the following info about movies when they enter "movie-t
 * Actors
 
 ![OMDB search](https://github.com/sespert/liri-node-app/blob/master/images/OMDB.png)
+[See it in action](https://github.com/sespert/liri-node-app/blob/master/images/OMDB.mov)
 
 ## Random Search
 
