@@ -19,12 +19,12 @@
   },
   "homepage": "https://github.com/sespert/liri-node-app#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "dotenv": "^6.2.0",
     "fs": "0.0.1-security",
     "moment": "^2.24.0",
     "node-spotify-api": "^1.0.7",
-    "snyk": "^1.170.0"
+    "snyk": "^1.226.0"
   },
   "snyk": true
 }
