@@ -1,6 +1,6 @@
 # LIRI bot
 
-LIRI (Language Interpreatation and Recognition Interface) is a command line node app that takes in parameters and it will give you back data about songs, concerts or movies.
+LIRI (Language Interpretation and Recognition Interface) is a command line node app that takes in parameters and it will give you back data about songs, concerts or movies.
 
 ## Spotify Search
 
