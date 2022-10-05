@@ -5,7 +5,7 @@
   "main": "liriApp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "snyk-protect": "snyk protect",
+    "snyk-protect": "snyk-protect",
     "prepare": "npm run snyk-protect"
   },
   "repository": {
@@ -19,12 +19,12 @@
   },
   "homepage": "https://github.com/sespert/liri-node-app#readme",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.3",
     "dotenv": "^6.2.0",
     "fs": "0.0.1-security",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-spotify-api": "^1.0.7",
-    "snyk": "^1.230.5"
+    "@snyk/protect": "latest"
   },
   "snyk": true
 }
